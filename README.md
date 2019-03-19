@@ -13,6 +13,8 @@ Other locations:
 $ git clone https://github.com/simov/express-admin-examples
 $ cd express-admin-examples
 $ npm install
+$ npm install express-admin -S
+$ npm install pg -S
 ```
 
 ## Create the schema and the test user
